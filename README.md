@@ -15,18 +15,19 @@ Deze repository bevat de Jupyter Notebook voor de workshop "Introductie Pandas e
 
 2. **Voer de notebook uit in Google Colab**:
    Klik op de onderstaande link om de notebook te openen in Google Colab:
+   
    [Open in Colab](https://colab.research.google.com/githubniekh-13/geodata-etl-workshop/Introductie_GeoPandas_Workshop.ipynb)
 
-3. **Data download**:
+4. **Data download**:
    De data die in de workshop wordt gebruikt kan worden gedownload van de volgende locaties:
-   - [Liander]([https://www.liander.nl/open-data/kleinverbruikdata](https://www.liander.nl/over-ons/open-data/disclaimer))
+   - [Liander](https://www.liander.nl/over-ons/open-data/disclaimer)
    - [Enexis](https://www.enexis.nl/over-ons/open-data)
    - [Stedin](https://www.stedin.net/zakelijk/open-data/verbruiksgegevens)
    - [Coteq](https://coteqnetbeheer.nl/open-data)
    - CBS Postcode data: [link](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode)
    - CBS Wijk- en buurtdata: [link](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/wijk-en-buurtkaart-2023)
    
-4. **Uitvoeren van de workshop**:
+5. **Uitvoeren van de workshop**:
    De workshop begint met het inlezen en manipuleren van de energieverbruiksdata van de netbeheerders. Daarna worden de datasets gekoppeld aan CBS data voor verdere analyse en visualisatie.
 
 ## Contact
