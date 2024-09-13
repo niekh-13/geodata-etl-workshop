@@ -16,7 +16,7 @@ Deze repository bevat de Jupyter Notebook voor de workshop "Introductie Pandas e
 2. **Voer de notebook uit in Google Colab**:
    Klik op de onderstaande link om de notebook te openen in Google Colab:
    
-   [Open in Colab](https://colab.research.google.com/github/niekh-13/geodata-etl-workshop/Introductie_GeoPandas_Workshop.ipynb)
+   [Open in Colab](https://colab.research.google.com/github/niekh-13/geodata-etl-workshop/blob/main/Introductie_GeoPandas_Workshop.ipynb)
 
 4. **Data download**:
    De data die in de workshop wordt gebruikt kan worden gedownload van de volgende locaties:
