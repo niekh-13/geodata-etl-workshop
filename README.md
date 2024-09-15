@@ -40,15 +40,15 @@ Deze repository bevat de Jupyter Notebook voor de workshop "Introductie Pandas e
    Stappen met afbeeldingen
    Stap 1: Open de bestandsweergave
    
-   ![plot1](colag_afbeeldingen/image1.png)
+   ![plot1](https://github.com/niekh-13/geodata-etl-workshop/blob/main/colab_afbeeldingen/image1.png))
    
    Stap 2: Vind je bestand
    
-   ![plot2](colag_afbeeldingen/image2.png)
+   ![plot2](https://github.com/niekh-13/geodata-etl-workshop/blob/main/colag_afbeeldingen/image2.png)
    
    Stap 3: Downloaden
    
-   ![plot3](colag_afbeeldingen/image3.png)
+   ![plot3](https://github.com/niekh-13/geodata-etl-workshop/blob/main/colag_afbeeldingen/image3.png)
 
 
 ## Contact
