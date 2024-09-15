@@ -30,6 +30,20 @@ Deze repository bevat de Jupyter Notebook voor de workshop "Introductie Pandas e
 5. **Uitvoeren van de workshop**:
    De workshop begint met het inlezen en manipuleren van de energieverbruiksdata van de netbeheerders. Daarna worden de datasets gekoppeld aan CBS data voor verdere analyse en visualisatie.
 
+6. **Bestanden downloaden vanuit Google Colab**:
+   Om bestanden te downloaden vanuit Google Colab, volg je de onderstaande stappen:
+
+   Links in de balk: Klik op het map-icoon aan de linkerkant in de Google Colab-interface om de bestandsweergave te openen.
+   1. Vind het bestand: Zoek het bestand dat je wilt downloaden.
+   2. Downloaden: Klik op de drie stipjes naast het bestand en kies Downloaden.
+   
+   Stappen met afbeeldingen
+   [Stap 1:](colag_afbeeldingen/image1.png) Open de bestandsweergave
+   
+   [Stap 2:](colag_afbeeldingen/image2.png) Vind je bestand
+   
+   [Stap 3:](colag_afbeeldingen/image3.png) Downloaden
+
 ## Contact
 
 Voor vragen of opmerkingen over de workshop kun je contact opnemen met Niek Huijsmans via nhuijsmans1998@gmail.com.
